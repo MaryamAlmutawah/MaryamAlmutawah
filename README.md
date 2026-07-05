@@ -26,8 +26,9 @@ Computer Science graduate currently working as a Full-Stack Developer, with a sp
   <a href="mailto:maryammutawah@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="www.linkedin.com/in/maryam-almutawah" />
+  <a href="www.linkedin.com/in/maryam-almutawah">
+     <img src="https://skillicons.dev/icons?i=linkedin" />
+    
   </a>
 </p>
 
