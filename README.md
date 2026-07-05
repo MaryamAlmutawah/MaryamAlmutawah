@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maryam Hussain Almutawah</h1>
-<h3 align="center">A Computer Science Student at IAU</h3>
+<h3 align="center">A Computer Science fresh graduate from IAU</h3>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/maryamalmutawah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maryamalmutawah" height="30" width="40" /></a>
